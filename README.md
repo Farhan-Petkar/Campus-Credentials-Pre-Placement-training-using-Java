@@ -6,3 +6,6 @@
  <br>
  Through this 5 day training. I developed my logic building and problem solving abilities. 
  Which in return has boost up my confidence.
+ <br>
+ Our trainer was Ashish Gadpayle sir.
+ 
